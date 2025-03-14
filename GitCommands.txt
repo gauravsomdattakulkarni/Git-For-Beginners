@@ -62,10 +62,28 @@ git push -u origin main
 git remote add origin https://github.com/gauravsomdattakulkarni/Git-For-Beginners.git
 git branch -M main (Creating Branch Main)
 git push -u origin main
+git push origin main
 
 
 18 :Using SSH Insted Of https   
     -> ssh-keygen -o
-    
+
+19: To Get Current Working directory
+    pwd (present working directory)
+
+20 : list files 
+    ls 
+    ls -a (it is used to get list of hidden files also)
+
+21: git remote -v : the command can be used to get info about repo fetch /push 
+
+22 : Tagging In Git 
+     -> git tag it can used to show all given tags for this project 
+    1: annoted Tagging
+        -> git tag -a v1.0 -m "Git Commands"
+        -> git show versionName ex : git show v1.0 , it will detaild infomation about perticular version
+        
+    2: lightweight taggig 
+
 
 
