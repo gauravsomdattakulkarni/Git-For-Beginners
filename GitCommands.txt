@@ -1,0 +1,52 @@
+Git
+
+-> it is distributed version control system
+1: Local version Control
+2: centralized version control system (cvcs)
+	->get copy
+	->change
+	->upload copy
+3: Distributed version control system
+	->we can have local copy as well
+
+1: git --version
+2: git config
+3: git config --global --list
+4: git config --global user.name  "Gaurav Kulkarni"
+
+5: Git Areas
+	->working directory
+	->staging area
+	->commit history
+
+
+6: create git local repository
+	->git status : to check status
+	->git init
+	->git init -b main (when initialization  as main)
+
+7: remove git rm .git
+
+8:Add file to staging area
+	-> git add filename
+	
+9: git log (get intitial commit)
+
+10 : git commit -m "My First Commit"
+
+11: git commit -a -m "My Third Commit" --> it can be used to skip stagging , directly commet
+
+12: git diff : it can used to check difference between previous file and changed / modified file before staging in working directory
+
+	git diff --staged if the file is added to staging area
+
+13: git add .
+	-> it is used to all files to staging area
+
+14: Removing file from git
+	-> git rm --cached filename.txt
+
+
+
+
+
