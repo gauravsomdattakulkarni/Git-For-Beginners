@@ -46,7 +46,22 @@ Git
 14: Removing file from git
 	-> git rm --cached filename.txt
 
+15: read contents in file   
+    -> cat filename
 
+16 : create a new repository on the command line
+echo "# Git-For-Beginners" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/gauravsomdattakulkarni/Git-For-Beginners.git
+git push -u origin main
+
+17 : push an existing repository from the command line
+git remote add origin https://github.com/gauravsomdattakulkarni/Git-For-Beginners.git
+git branch -M main
+git push -u origin main
 
 
 
