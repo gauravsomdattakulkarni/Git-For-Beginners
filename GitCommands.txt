@@ -54,14 +54,18 @@ echo "# Git-For-Beginners" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git branch -M main
+git branch -M main (Creating Branch Main)
 git remote add origin https://github.com/gauravsomdattakulkarni/Git-For-Beginners.git
 git push -u origin main
 
 17 : push an existing repository from the command line
 git remote add origin https://github.com/gauravsomdattakulkarni/Git-For-Beginners.git
-git branch -M main
+git branch -M main (Creating Branch Main)
 git push -u origin main
 
+
+18 :Using SSH Insted Of https   
+    -> ssh-keygen -o
+    
 
 
