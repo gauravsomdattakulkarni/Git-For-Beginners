@@ -1,2 +1,0 @@
-username = GSK
-password = admin123
