@@ -104,6 +104,14 @@ git push origin main
 26 : Deleting Branch 
 	-> git branch --d featureBranchName
 
+27 : git push origin feature 
+
+28: git log --graph 
+ for visulations
+
+29 : Git Merge The Branch
+
+
 
 
 
