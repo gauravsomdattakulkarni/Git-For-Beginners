@@ -1,5 +1,10 @@
 What is Git?
 
+
+	protected $casts = [
+
+	];
+
 Git is a distributed version control system (DVCS) used for tracking changes in source code during software development. It allows multiple developers to work on a project simultaneously without overwriting each other's work. Git was created by Linus Torvalds in 2005 to help with the development of the Linux kernel. 
 
 Key Features of Git:
@@ -62,3 +67,8 @@ Git and GitHub are essential tools for modern software development, enabling eff
 
 
 2
+
+
+3
+
+4
