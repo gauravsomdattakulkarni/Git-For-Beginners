@@ -114,6 +114,11 @@ git push origin main
 30 : before mergin switch to main branch 
 	-> git merge feature
 
+31 : git pull origin branchName 
+	->ex : git pull origin main	
+		   git pull origin feature 
+		   
+
 
 
 
