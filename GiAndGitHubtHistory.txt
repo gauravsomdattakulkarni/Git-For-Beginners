@@ -1,0 +1,17 @@
+----------------------------------------
+History of Git
+----------------------------------------
+- Git is a distributed version control system created by Linus Torvalds in 2005.
+- It was developed to support Linux kernel development after previous systems fell short.
+- Designed for speed, efficiency, and robustness, Git allows every developer to have a full copy of the project history.
+- Its architecture revolutionized version control, making collaboration easier and more reliable across massive projects.
+
+----------------------------------------
+History of GitHub
+----------------------------------------
+- GitHub launched in 2008, founded by Tom Preston-Werner, Chris Wanstrath, PJ Hyett, and Scott Chacon.
+- It provided a web-based platform to host Git repositories, making code sharing and collaboration accessible globally.
+- Key features like pull requests, issue tracking, and integrated wikis transformed how developers work together.
+- In 2018, Microsoft acquired GitHub, reinforcing its position as the premier platform for open source and professional software development.
+- Today, GitHub hosts millions of repositories, fostering innovation and community-driven development.
+
