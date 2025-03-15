@@ -82,8 +82,17 @@ git push origin main
     1: annoted Tagging
         -> git tag -a v1.0 -m "Git Commands"
         -> git show versionName ex : git show v1.0 , it will detaild infomation about perticular version
-        
+        ->pushing tag : git push origin tagName 
+            ex: git push origin v1.1
     2: lightweight taggig 
+
+23 : creating branch 
+	-> git checkout -b feature  : it is used to create new branch with name feature1 and switch to it
+	-> git switch 
+	-> git checkout feature1
+	-> git branch (to get list of branches)
+	
+
 
 
 
