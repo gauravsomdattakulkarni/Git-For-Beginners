@@ -14,7 +14,3 @@ History of GitHub
 - Key features like pull requests, issue tracking, and integrated wikis transformed how developers work together.
 - In 2018, Microsoft acquired GitHub, reinforcing its position as the premier platform for open source and professional software development.
 - Today, GitHub hosts millions of repositories, fostering innovation and community-driven development.
-
-
-Modifications IN Main Change for 3 
-Again CStatus Modifications in 3

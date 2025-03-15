@@ -118,17 +118,10 @@ git push origin main
 	->ex : git pull origin main	
 		   git pull origin feature 
 
-32 :
+32 : git rebase branchName;
 
 
-33 :
 
-34: Feature 3 Git COmmands 
-
-35 : Feature 3 More Changes 
-
-More CHange From 3
-		   
 
 
 

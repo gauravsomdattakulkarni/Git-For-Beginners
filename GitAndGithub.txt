@@ -61,14 +61,3 @@ Basic Git and GitHub Workflow:
 7. Collaborate using branches, pull requests, and reviews.
 
 Git and GitHub are essential tools for modern software development, enabling efficient version control, team collaboration, and automation in the development process.
-
-
-1
-
-
-2
-
-
-3
-
-4
