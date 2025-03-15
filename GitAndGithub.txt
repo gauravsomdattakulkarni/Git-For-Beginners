@@ -62,16 +62,14 @@ Basic Git and GitHub Workflow:
 
 Git and GitHub are essential tools for modern software development, enabling efficient version control, team collaboration, and automation in the development process.
 
-
 1
-
-
 2
-
-
 3
-
 4
-
-
+5
+6
+7
+8
+9
+10
 Changed DOne Again In Feature 3
