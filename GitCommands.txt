@@ -111,6 +111,8 @@ git push origin main
 
 29 : Git Merge The Branch
 
+30 : before mergin switch to main branch 
+	-> git merge feature
 
 
 
