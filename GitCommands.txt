@@ -117,6 +117,11 @@ git push origin main
 31 : git pull origin branchName 
 	->ex : git pull origin main	
 		   git pull origin feature 
+
+32 :
+
+
+33 :
 		   
 
 
