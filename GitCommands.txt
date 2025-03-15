@@ -91,7 +91,21 @@ git push origin main
 	-> git switch 
 	-> git checkout feature1
 	-> git branch (to get list of branches)
-	
+	-> git switch --create featureBranchName
+
+	ex : git switch main	 / git switch feature
+24: Getting list of branches
+	-> git branch 
+	-> git branch --all 
+
+25 : Switching Back to previous Branch 
+	-> git switch -
+
+26 : Deleting Branch 
+	-> git branch --d featureBranchName
+
+
+
 
 
 
